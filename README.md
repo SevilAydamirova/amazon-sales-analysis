@@ -12,16 +12,16 @@ This project is an interactive Sales Analytics Dashboard built in Power BI to an
 ## 📸 Dashboard Preview
 
 ### Churn Analysis
-![Churn Analysis](screenshots/churn_analysis.png)
+![Churn Analysis](images/churn_analysis.png)
 
 ### Stock Analysis
-![Stock Analysis](screenshots/stock_analysis.png)
+![Stock Analysis](images/stock_analysis.png)
 
 ### Regional Sales Analysis
-![Regional Sales Analysis](screenshots/regional_sales_analysis.png)
+![Regional Sales Analysis](images/regional_sales_analysis.png)
 
 ### State-wise Sales Map
-![State Sales Map](screenshots/state_sales_map.png)
+![State Sales Map](images/state_sales_map.png)
 
 ---
 
@@ -147,5 +147,5 @@ amazon-sales-analysis-powerbi
 If you have any feedback or suggestions, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aydamirova).
 
 ---
-**Author:** [Sevil Aydamirova]
+**Author:** Sevil Aydamirova
 Data Analyst | Excel | Power BI | SQL | Python |
