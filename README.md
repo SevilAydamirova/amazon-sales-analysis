@@ -11,16 +11,16 @@ This project is an interactive Sales Analytics Dashboard built in Power BI to an
 
 ## 📸 Dashboard Preview
 
-### Churn Analysis
+### Churn_Analysis
 ![Churn Analysis](images/churn_analysis.png)
 
-### Stock Analysis
+### Stock_Analysis
 ![Stock Analysis](images/stock_analysis.png)
 
-### Regional Sales Analysis
+### Regional_Sales_Analysis
 ![Regional Sales Analysis](images/regional_sales_analysis.png)
 
-### State-wise Sales Map
+### State_Sales_Map
 ![State Sales Map](images/state_sales_map.png)
 
 ---
